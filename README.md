@@ -10,3 +10,11 @@ A simple writing application
 ## Development
 
 `python3 main.py`
+
+
+## Project
+
+- An API that users can use to track their writing/journaling
+- Users should be able to upload new texts.
+- Users should be able to see their previous texts.
+- USers should be able to generate an 'author profile' showing their changing mood
